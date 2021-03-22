@@ -19,5 +19,5 @@ Tất cả những ai có nhu cầu tìm hiểu hoặc chia sẻ các mẹo, cô
 * Đăng tải bài viết.
 
 # Mô hình quan hệ thực thể
-![Mô hình quan hệ thực thể](image.png)
+![Mô hình quan hệ thực thể](ER Diagram.png)
 
